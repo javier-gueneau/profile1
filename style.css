@@ -1,0 +1,8 @@
+.tech_table{
+    /* background-color: yellowgreen; */
+}
+
+table,th,td{
+    /* background-color: rebeccapurple; */
+    border: 1px solid black;
+}
